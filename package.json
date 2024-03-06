@@ -1,0 +1,20 @@
+{
+  "name": "repository_deletor",
+  "version": "1.0.0",
+  "description": "Deletes repositories using GitHub's API.",
+  "main": "app.js",
+  "type": "module",
+  "scripts": {
+    "test": "node appTester.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/NYX1122/Repository_Deletor.git"
+  },
+  "author": "BoDee Angus",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/NYX1122/Repository_Deletor/issues"
+  },
+  "homepage": "https://github.com/NYX1122/Repository_Deletor#readme"
+}
